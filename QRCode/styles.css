@@ -1,0 +1,38 @@
+.titulo {
+    color: rgb(15, 117, 195);
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: rgba(179, 146, 177, 0.984);
+  }
+
+.content {
+    color: rgb(90, 74, 255);
+    font-weight: 700;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.qr_code img {
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+  
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin: 120px;
+}
+
+
+
